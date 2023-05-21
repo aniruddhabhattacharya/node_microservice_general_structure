@@ -1,0 +1,18 @@
+{
+    "getAllUsers": {
+      "model": "User",
+      "query": {},
+      "options": {}
+    },
+    "getUserById": {
+      "model": "User",
+      "query": { "_id": "<id>" },
+      "options": {}
+    },
+    "createUser": {
+      "model": "User",
+      "query": {},
+      "options": {}
+    }
+  }
+  
